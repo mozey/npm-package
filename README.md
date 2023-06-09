@@ -18,5 +18,6 @@ no such file or directory, open '...package.json'
 Follow the instructions to [create a package](https://docs.npmjs.com/creating-a-package-json-file)
 ```bash
 npm init
-# Selected all defaults, except for description
 ```
+
+Selected all defaults, except for *"description"*. It added a bunch of field, according to [creating a package.json file](https://docs.npmjs.com/creating-a-package-json-file), only the *"name"* and *"version"* fields are required. Adding *"author"* also seems appropriate, the other fields are not necessary
