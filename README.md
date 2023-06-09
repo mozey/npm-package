@@ -15,3 +15,8 @@ With an empty repo `npm install` will fail with
 no such file or directory, open '...package.json'
 ```
 
+Follow the instructions to [create a package](https://docs.npmjs.com/creating-a-package-json-file)
+```bash
+npm init
+# Selected all defaults, except for description
+```

@@ -1,0 +1,19 @@
+{
+  "name": "npm-package",
+  "version": "1.0.0",
+  "description": "Test installing npm packages directly from github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mozey/npm-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mozey/npm-package/issues"
+  },
+  "homepage": "https://github.com/mozey/npm-package#readme"
+}
