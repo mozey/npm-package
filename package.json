@@ -2,5 +2,6 @@
   "name": "npm-package",
   "version": "1.0.0",
   "description": "Test installing npm packages directly from github",
-  "author": "Christiaan B van Zyl <christiaanvanzyl@gmail.com> (https://mozey.co)"
+  "author": "Christiaan B van Zyl <christiaanvanzyl@gmail.com> (https://mozey.co)",
+  "license": "MIT"
 }

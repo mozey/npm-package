@@ -27,4 +27,6 @@ Follow the instructions to [create a package](https://docs.npmjs.com/creating-a-
 npm init
 ```
 
-Selected all defaults, except for *"description"*. It added a bunch of field, according to [creating a package.json file](https://docs.npmjs.com/creating-a-package-json-file), only the *"name"* and *"version"* fields are required. Adding *"author"* also seems appropriate, the other fields are not necessary
+The init sub-command added a bunch of fields, according to [creating a package.json file](https://docs.npmjs.com/creating-a-package-json-file), only the *"name"* and *"version"* fields are required. 
+
+Additionally, *"description"*, *"author"* and *"license"* also seem appropriate, but are not necessary for the package to be installable
