@@ -2,9 +2,12 @@
 
 See discussion on [how to install an npm package from GitHub directly](https://stackoverflow.com/a/21918559/639133): *""possible since version 1.1.65 and works for github.com only""*
 
+
+##  Install from github
+
 Install this package directly from github
 ```bash
-# Setup
+# Clone repo
 git clone https://github.com/mozey/npm-package.git
 cd npm-package
 
@@ -29,3 +32,19 @@ npm init
 The init sub-command added a bunch of fields, according to [creating a package.json file](https://docs.npmjs.com/creating-a-package-json-file), only the *"name"* and *"version"* fields are required. 
 
 Additionally, *"description"*, *"author"* and *"license"* also seem appropriate, but are not necessary for the package to be installable
+
+
+## Importing code
+
+Clone import example repo
+```bash
+git clone https://github.com/mozey/npm-package-import.git
+cd npm-package-import
+```
+
+Install node_modules
+```bash
+npm install
+```
+
+**TODO** Run tests
