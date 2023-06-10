@@ -36,15 +36,4 @@ Additionally, *"description"*, *"author"* and *"license"* also seem appropriate,
 
 ## Importing code
 
-Clone import example repo
-```bash
-git clone https://github.com/mozey/npm-package-import.git
-cd npm-package-import
-```
-
-Install node_modules
-```bash
-npm install
-```
-
-**TODO** Run tests
+See [importing code instructions and examples](https://github.com/mozey/npm-import#importing-code)
